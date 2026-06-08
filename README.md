@@ -583,7 +583,7 @@ Considering your background in IT, public health, and academic administration, I
 
 # My recommendation for your institution
 
-For BRAC JPGSPH and similar schools, a very practical publication strategy is:
+For a very practical publication strategy is:
 
 **Level 1 (Beginner):**
 
@@ -603,4 +603,4 @@ For BRAC JPGSPH and similar schools, a very practical publication strategy is:
 * Meta-Analyses
 * Umbrella Reviews
 
-This progression allows MSc and MPH students to publish within 3–12 months while developing the skills needed for doctoral-level research and international journal publication.
+This progression allows MSc students to publish within 3–12 months while developing the skills needed for doctoral-level research and international journal publication.
